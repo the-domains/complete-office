@@ -1,0 +1,14 @@
+layout_spectrum: 0.09919603285379708
+typography_spectrum: 0.4533207262866199
+color:
+  brandStrength: 0.17242792341858149
+  lightness: 0.9351430884562433
+  saturation: 0.5294638073537499
+  rhythmicContrast: 0.2310802296269685
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: complete office
