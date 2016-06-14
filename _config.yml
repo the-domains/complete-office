@@ -1,4 +1,3 @@
-layout_spectrum: 0.09919603285379708
 typography_spectrum: 0.4533207262866199
 color:
   brandStrength: 0.17242792341858149
@@ -6,9 +5,17 @@ color:
   saturation: 0.5294638073537499
   rhythmicContrast: 0.2310802296269685
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.09919603285379708
+author:
+  name: Laszlo Strangelööve
+  email: ls@completeoffice.se
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1a07912-c050-4a58-b93c-7fd849de411b.gif
 name: complete office
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/35936ab3-1f5b-4bde-a44e-3598a33e4343.gif
